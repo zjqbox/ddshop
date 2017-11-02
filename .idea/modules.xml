@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dd-common/dd-common.iml" filepath="$PROJECT_DIR$/dd-common/dd-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-manager/dd-manager.iml" filepath="$PROJECT_DIR$/dd-manager/dd-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-manager/dd-manger-dao/dd-manger-dao.iml" filepath="$PROJECT_DIR$/dd-manager/dd-manger-dao/dd-manger-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-manager/dd-manger-interface/dd-manger-interface.iml" filepath="$PROJECT_DIR$/dd-manager/dd-manger-interface/dd-manger-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-manager/dd-manger-pojo/dd-manger-pojo.iml" filepath="$PROJECT_DIR$/dd-manager/dd-manger-pojo/dd-manger-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-manager/dd-manger-service/dd-manger-service.iml" filepath="$PROJECT_DIR$/dd-manager/dd-manger-service/dd-manger-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-manager/dd-manger-web/dd-manger-web.iml" filepath="$PROJECT_DIR$/dd-manager/dd-manger-web/dd-manger-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-parent/dd-parent.iml" filepath="$PROJECT_DIR$/dd-parent/dd-parent.iml" />
+    </modules>
+  </component>
+</project>
